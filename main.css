@@ -1,0 +1,16 @@
+.different{
+    color: blueviolet;
+    font-size: medium;
+    margin-left: auto;
+}
+
+Header {
+      color: aqua;
+      font-size: large;
+      margin-left: auto;
+}
+#free {
+      color: crimson;
+      font-size: large;
+      margin-left: fill;
+}
